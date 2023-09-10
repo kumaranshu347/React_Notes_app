@@ -8,9 +8,10 @@ features -Add new Notes component.
           Saving to local storage.
 
 
-Live Link : https://anshunotes.netlify.app/        
+# Live Link :
+ https://anshunotes.netlify.app/        
 
 
-Run the code:
+# Run the code:
 npm install
 npm start
